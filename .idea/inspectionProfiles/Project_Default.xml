@@ -1,0 +1,36 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N812" />
+          <option value="N802" />
+          <option value="N801" />
+          <option value="N806" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="定位.test.*" />
+          <option value="test.expected_conditinons" />
+          <option value="selenium.webdriver.support.expected_conditins" />
+          <option value="pytest.main" />
+          <option value="xiaoguo.main" />
+          <option value="djmisd.main" />
+          <option value="requestsimport" />
+          <option value="str.rsaEncrypt" />
+          <option value="str.headers" />
+          <option value="map.count" />
+          <option value="list.__getitem__" />
+          <option value="djmisd.jiekou.blog.test_Login.Crypto" />
+          <option value="code" />
+          <option value="yaml.ruamel" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

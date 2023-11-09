@@ -1,0 +1,11 @@
+-
+  request:
+    url: http://127.0.0.1:5000/register
+    method: post
+    headers:
+        Content-Type: application/json
+    json:
+        username: guoshijie954
+        password: password
+        telephone: 15176512667
+  validate: null
